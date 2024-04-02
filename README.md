@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/153205233500028929)](https://discord.com/users/153205233500028929)
+[![Discord Presence](https://lanyard.cnrad.dev/api/153205233500028929?idleMessage=No%20Infos%20for%20Activity%20atm)](https://discord.com/users/153205233500028929)
 
 
 - 🌱 I’m currently learning ...
