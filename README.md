@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/153205233500028929)](https://discord.com/users/153205233500028929)
+
+
+- 🌱 I’m currently learning ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about anything
+- 📫 How to reach me: Discord (Furby87)
+- 😄 Pronouns: Who/Where xD
+- ⚡ Fun fact: ...
+
 <!--
 **Furby87/Furby87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
