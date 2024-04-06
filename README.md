@@ -1,12 +1,12 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=furby87)
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/153205233500028929?idleMessage=No%20Infos%20for%20Activity%20atm)](https://discord.com/users/153205233500028929)
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-![](https://komarev.com/ghpvc/?username=furby87)
 
 - 🌱 I’m currently learning ...
 - 🤔 I’m looking for help with ...
