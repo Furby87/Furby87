@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![ProfileViews](https://komarev.com/ghpvc/?username=furby87&color=brightgreen&style=plastic&base=150&abbreviated=true&label=PROFILE+VIEWS)
+![ProfileViews](https://komarev.com/ghpvc/?username=furby87&color=brightgreen&style=flat&base=150&abbreviated=true&label=PROFILE+VIEWS)
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/153205233500028929?idleMessage=No%20Infos%20for%20Activity%20atm)](https://discord.com/users/153205233500028929)
 
