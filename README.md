@@ -16,6 +16,9 @@
 - 😄 Pronouns: Who/Where xD
 - ⚡ Fun fact: ...
 
+<img src="https://user-images.githubusercontent.com/74038190/212284068-b4ee9a5c-331c-4d18-9481-53dd6b9debd5.gif" width="200">
+<br><br>
+
 <!--
 **Furby87/Furby87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
