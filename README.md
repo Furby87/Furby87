@@ -7,6 +7,7 @@
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Furby87/Furby87/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Furby87/Furby87/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=furby87&layout=donut)](https://github.com/furby87/github-readme-stats)
 
 - 🌱 I’m currently learning ...
 - 🤔 I’m looking for help with ...
