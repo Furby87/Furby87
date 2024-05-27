@@ -1,7 +1,9 @@
 ### Hi there 👋
-
+<a href="https://github.com/Anmol-Baranwal/GIFs-For-Readme"><img src="https://forthebadge.com/images/badges/built-with-love.svg" width="130" alt="made with love  markdown badge" ></a>  <a href="https://github.com/Anmol-Baranwal/GIFs-For-Readme"><img src="https://forthebadge.com/images/badges/built-with-swag.svg" width="130" alt="made with swag markdown badge"></a> 
 ![ProfileViews](https://komarev.com/ghpvc/?username=furby87&color=brightgreen&style=flat&base=150&abbreviated=true&label=PROFILE+VIEWS)
-
+<br><br>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="500">
+<br><br>
 [![Discord Presence](https://lanyard.cnrad.dev/api/153205233500028929?idleMessage=No%20Infos%20for%20Activity%20atm)](https://discord.com/users/153205233500028929)
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Furby87/Furby87/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
