@@ -14,6 +14,16 @@
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Furby87/Furby87/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Furby87/Furby87/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Furby87&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Furby87&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Furby87&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Furby87&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Furby87&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=furby87&layout=donut&theme=transparent#gh-dark-mode-only)](https://github.com/furby87/github-readme-stats)
 ![Furby's GitHub stats](https://github-readme-stats.vercel.app/api?username=Furby87&show_icons=true&theme=transparent#dgh-dark-mode-only)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Furby87&theme=transparent)
@@ -21,18 +31,17 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=furby87&layout=donut&theme=light#gh-light-mode-only)](https://github.com/furby87/github-readme-stats)
 ![Furby's GitHub stats](https://github-readme-stats.vercel.app/api?username=Furby87&show_icons=true&theme=light#gh-light-mode-only)
 -->
-- 🌱 I’m currently learning ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about anything
+- 🌱 I’m currently learning ... C++
+- 🤔 I’m looking for help with ... OSINT
+- 💬 Ask me about anything ... Python Bots
 - 📫 How to reach me: Discord (Furby87)
 - 😄 Pronouns: Who/Where xD
 - ⚡ Fun fact: ...
-  
 
 <img src="https://user-images.githubusercontent.com/74038190/212284068-b4ee9a5c-331c-4d18-9481-53dd6b9debd5.gif" width="200">
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,git,python,html" />
+<img src="https://skillicons.dev/icons?i=js,python,bots,nodejs,git,html,aiscript,arduino,bash,cs,cpp,discord,dotnet,github,java,kali,lua,powershell,py,raspberrypi,sqlite,selenium,visualstudio,vscode,windows&perline=5" />
 
 <!--
 **Furby87/Furby87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -50,22 +59,7 @@ Here are some ideas to get you started:
 -->
 ![](https://hit.yhype.me/github/profile?user_id=6781054)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=furby87&show_icons=true&locale=en&layout=compact" alt="furby87" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=furby87&show_icons=true&locale=en" alt="furby87" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=furby87&" alt="furby87" /></p>
-
-### 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=Furby87&row=2&column=4&margin-w=15&no-frame=true)
-
-### 📈 Weekly Coding Time
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 ### 🎮 Let's Play!
-
 [![Connect4](https://img.shields.io/badge/Play-Connect4-blue)](https://github.com/Furby87/connect4-game)
-
 
 ![Jokes](https://readme-jokes.vercel.app/api?theme=dark)
