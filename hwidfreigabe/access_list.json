@@ -1,0 +1,16 @@
+{
+    "allowed_hwids": [
+        {
+            "hwid": "f2d4206622eaed7ec66d1065dc6b2e71f93b2d4f27c864864fcc61c27a428109",
+            "user": "Furby87",
+            "expiry": "2025-04-31"
+        },
+        {
+            "hwid": "def456...",
+            "user": "Benutzer2",
+            "expiry": "2025-04-31"
+        }
+    ],
+    "version": "1.2",
+    "last_update": "2025-03-31"
+}
