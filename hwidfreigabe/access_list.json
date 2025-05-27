@@ -11,8 +11,13 @@
             "expiry": "2025-04-05"
         },
         {
-            "hwid": "91314e9c240bc9ab0a9b4da65d350de203108766cca8511fb18703a22edab779",
+            "hwid": "db809108d9f83036d05026a006fe4e1fda48fba96415a525e3addd30fb3fe3e5",
             "user": "Furby87TUF",
+            "expiry": "2025-04-31"
+        },
+        {
+            "hwid": "91314e9c240bc9ab0a9b4da65d350de203108766cca8511fb18703a22edab779",
+            "user": "Furby87TUFv2",
             "expiry": "2025-04-31"
         }
     ],
