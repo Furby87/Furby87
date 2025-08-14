@@ -18,7 +18,12 @@
         {
             "hwid": "060cf7d33c33fc452dc3782ba01a3d91d1e4f936fb9aa89868b4600f9ef43d88",
             "user": "Furby87TUFv2",
-            "expiry": "2025-04-31"
+            "expiry": "2025-08-31"
+        },
+        {
+            "hwid": "cfdb4390a8ba33660a26bc7af9b9c9c3ecb3bae4837ca1f65ddbda89b54951e1",
+            "user": "Furby87TUFv2.2",
+            "expiry": "2025-08-31"
         }
     ],
     "version": "1.2",
